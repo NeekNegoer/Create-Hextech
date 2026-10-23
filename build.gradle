@@ -59,7 +59,6 @@ neoForge {
     }
 }
 
-jarJar.enable()
 
 dependencies {
     // Create + friends. Pattern taken from https://wiki.createmod.net/developers/depend-on-create/neoforge-1.21.1
